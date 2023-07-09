@@ -1,0 +1,25 @@
+body{
+    background:#cfcece;
+}
+h1{
+    font-family: cursive;
+    font-style: italic;
+    font-weight: bold;
+}
+h4{
+    color: darkslategrey;
+}
+#camera{
+    width: 500px;
+    height: 500px;
+    border: 1px solid skyblue;
+}
+.copy_right_footer{
+    position: fixed;
+    background-color: cadetblue;
+    color:aliceblue;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+}
